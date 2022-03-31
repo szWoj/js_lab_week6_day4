@@ -32,3 +32,7 @@ const handleFormSubmit = function (event){
 
 }
 
+// const handleForDeleteBooks = function (event){
+//   const books = document.getElementsByClassName('book-class')
+//   books.remove('book-class');
+// }
