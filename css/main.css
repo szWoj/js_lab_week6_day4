@@ -1,0 +1,8 @@
+body {
+  font-family: Palatino;
+}
+
+.book-class{
+  background-color: rgb(211, 240, 211);
+  margin: 10px;
+}
